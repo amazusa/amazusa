@@ -1,12 +1,5 @@
 ## Author: あまずさ鴒 (Amazusa Rei)
 
-今はフォント置き場になっています。
-
-### 資格
-- 応用情報技術者試験合格(2019春)
-- データベーススペシャリスト試験合格(2021秋)
-- LinuC Level-2(2022)
-- etc
 
 <!--
 **amazusa/amazusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
